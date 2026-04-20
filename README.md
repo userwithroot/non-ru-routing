@@ -1,5 +1,5 @@
 # non-ru-routing
 
-Excepting .RU domains for Happ
+Exclusion of .RU domains intended for Happ
 
 [Click to add rules](https://tinyurl.com/clicktoadd112)
