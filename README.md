@@ -1,4 +1,4 @@
-# non-ru-routing
+# Exclusion of .RU domains intended for Happ
 
 Exclusion of .RU domains intended for Happ
 
